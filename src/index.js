@@ -8,7 +8,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App" style={{ width: "500px", margin: "20px auto" }}>
-      <div> test me 2 removed </div>
+      <div> test me 2 </div>
       <Accordion>
         <div title="Contact Us" index="1">
           Lorem Ipsum is simply dummy text of the printing and typesetting
