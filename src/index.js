@@ -4,8 +4,6 @@ import { CSSTransition } from "react-transition-group";
 import Accordion from "./Accordion";
 import "./styles.css";
 
-const Panel = () => {};
-
 function App() {
   return (
     <div className="App" style={{ width: "500px", margin: "20px auto" }}>
@@ -30,7 +28,7 @@ function App() {
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
           since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book.{" "}
+          scrambled it to make a type specimen book.
         </div>
       </Accordion>
     </div>
