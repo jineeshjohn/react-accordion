@@ -1,15 +1,16 @@
 {
-  "name": "new",
+  "name": "accordion",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "lodash": "latest",
-    "react": "16.6.3",
-    "react-dom": "16.6.3",
-    "react-scripts": "2.1.1",
-    "styled-components": "^3.4.9"
+    "react": "16.7.0",
+    "react-dom": "16.7.0",
+    "react-scripts": "2.1.3",
+    "react-transition-group": "2.5.2",
+    "styled-components": "4.1.3"
   },
   "devDependencies": {},
   "scripts": {

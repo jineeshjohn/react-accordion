@@ -39,7 +39,7 @@ class Accordion extends Component {
           return (
             <AccordionSection
               isOpen={!!openSections[child.props.index]}
-              label={child.props.title}
+              label={child.props.header}
               onClick={onClick}
               index={child.props.index}
             >
